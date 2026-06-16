@@ -6,6 +6,10 @@ A community-driven collection of helpful programming and development tips.
 - Git Basics
 - GitHub Collaboration
 - Command Line Tips
+-writing commit
+-git branch
+-merge conflicts
+
 
 ## How to Contribute
 1. Fork this repository
