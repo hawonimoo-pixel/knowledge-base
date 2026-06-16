@@ -1,0 +1,28 @@
+# Writing Good Commit Messages
+
+## Why Commit Messages Matter
+
+They help others understand what was changed and why.
+
+## Seven Rules
+
+1. Keep the message short.
+2. Use clear words.
+3. Start with a capital letter.
+4. Do not end with a period.
+5. Use action words (Add, Fix, Update).
+6. Explain important changes.
+7. Be specific.
+
+## Good Messages
+
+* Add login feature
+* Fix search bug
+* Update README
+
+## Bad Messages
+
+* fix
+* changes
+* update
+* work done

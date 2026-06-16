@@ -1,0 +1,32 @@
+# Git Branching Strategies
+
+## Git Flow
+
+* Uses different branches for features, releases, and fixes.
+* Good for large projects.
+
+## GitHub Flow
+
+* Create a branch from `main`.
+* Make changes.
+* Open a pull request.
+* Merge back into `main`.
+* Good for small and fast-moving projects.
+
+## When to Create Branches
+
+Create a branch when:
+
+* Adding a new feature
+* Fixing a bug
+* Testing new ideas
+
+## Branch Naming
+
+Use clear names such as:
+
+* `feature-login`
+* `feature-search`
+* `bugfix-login-error`
+* `hotfix-security`
+

@@ -1,0 +1,38 @@
+# Resolving Merge Conflicts
+
+## What Causes Merge Conflicts?
+
+Merge conflicts happen when two branches change the same file or line of code.
+
+## How to Identify Conflicts
+
+Run:
+
+git status
+
+Git will show files with conflicts.
+
+You may also see markers like:
+
+<<<<<<< HEAD
+Your changes
+============
+
+Other changes
+
+> > > > > > > branch-name
+
+## How to Resolve Conflicts
+
+1. Open the conflicted file.
+2. Review both changes.
+3. Keep the correct code.
+4. Remove conflict markers.
+5. Save the file.
+6. Run:
+
+git add filename
+
+7. Complete the merge:
+
+git commit
